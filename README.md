@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noori793
 - 👀 I’m interested in Application & Game-Coding
-- 🌱 I’m currently learning OpenGL with C#
+- 🌱 I’m currently learning OpenGL with C# and Github :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
